@@ -1,0 +1,433 @@
+Month,Offense,Outcome,Count
+2019-01-01,Aggravated Assault,Completed,3347.0
+2019-02-01,Aggravated Assault,Completed,2997.0
+2019-03-01,Aggravated Assault,Completed,3838.0
+2019-04-01,Aggravated Assault,Completed,3706.0
+2019-05-01,Aggravated Assault,Completed,4375.0
+2019-06-01,Aggravated Assault,Completed,4196.0
+2019-07-01,Aggravated Assault,Completed,4395.0
+2019-08-01,Aggravated Assault,Completed,4511.0
+2019-09-01,Aggravated Assault,Completed,4948.0
+2019-10-01,Aggravated Assault,Completed,4514.0
+2019-11-01,Aggravated Assault,Completed,4375.0
+2019-12-01,Aggravated Assault,Completed,4357.0
+2020-01-01,Aggravated Assault,Completed,4452.0
+2020-02-01,Aggravated Assault,Completed,4416.0
+2020-03-01,Aggravated Assault,Completed,5452.0
+2020-04-01,Aggravated Assault,Completed,5503.0
+2020-05-01,Aggravated Assault,Completed,6559.0
+2020-06-01,Aggravated Assault,Completed,6408.0
+2020-07-01,Aggravated Assault,Completed,6728.0
+2020-08-01,Aggravated Assault,Completed,7104.0
+2020-09-01,Aggravated Assault,Completed,6141.0
+2020-10-01,Aggravated Assault,Completed,6845.0
+2020-11-01,Aggravated Assault,Completed,7087.0
+2020-12-01,Aggravated Assault,Completed,6955.0
+2021-01-01,Aggravated Assault,Completed,7334.0
+2021-02-01,Aggravated Assault,Completed,6308.0
+2021-03-01,Aggravated Assault,Completed,7186.0
+2021-04-01,Aggravated Assault,Completed,7779.0
+2021-05-01,Aggravated Assault,Completed,8448.0
+2021-06-01,Aggravated Assault,Completed,8340.0
+2021-07-01,Aggravated Assault,Completed,8569.0
+2021-08-01,Aggravated Assault,Completed,8248.0
+2021-09-01,Aggravated Assault,Completed,7550.0
+2021-10-01,Aggravated Assault,Completed,8014.0
+2021-11-01,Aggravated Assault,Completed,7158.0
+2021-12-01,Aggravated Assault,Completed,7626.0
+2022-01-01,Aggravated Assault,Completed,7358.0
+2022-02-01,Aggravated Assault,Completed,6664.0
+2022-03-01,Aggravated Assault,Completed,7861.0
+2022-04-01,Aggravated Assault,Completed,8238.0
+2022-05-01,Aggravated Assault,Completed,8910.0
+2022-06-01,Aggravated Assault,Completed,7922.0
+2022-07-01,Aggravated Assault,Completed,8349.0
+2022-08-01,Aggravated Assault,Completed,7852.0
+2022-09-01,Aggravated Assault,Completed,7611.0
+2022-10-01,Aggravated Assault,Completed,7642.0
+2022-11-01,Aggravated Assault,Completed,6803.0
+2022-12-01,Aggravated Assault,Completed,7174.0
+2023-01-01,Aggravated Assault,Completed,7362.0
+2023-02-01,Aggravated Assault,Completed,6441.0
+2023-03-01,Aggravated Assault,Completed,7585.0
+2023-04-01,Aggravated Assault,Completed,7586.0
+2023-05-01,Aggravated Assault,Completed,7786.0
+2023-06-01,Aggravated Assault,Completed,7461.0
+2023-07-01,Aggravated Assault,Completed,7775.0
+2023-08-01,Aggravated Assault,Completed,7389.0
+2023-09-01,Aggravated Assault,Completed,7221.0
+2023-10-01,Aggravated Assault,Completed,7115.0
+2023-11-01,Aggravated Assault,Completed,6489.0
+2023-12-01,Aggravated Assault,Completed,7053.0
+2024-01-01,Aggravated Assault,Completed,6213.0
+2024-02-01,Aggravated Assault,Completed,6207.0
+2024-03-01,Aggravated Assault,Completed,7283.0
+2024-04-01,Aggravated Assault,Completed,7514.0
+2024-05-01,Aggravated Assault,Completed,8157.0
+2024-06-01,Aggravated Assault,Completed,7989.0
+2024-07-01,Aggravated Assault,Completed,7585.0
+2024-08-01,Aggravated Assault,Completed,7421.0
+2024-09-01,Aggravated Assault,Completed,6998.0
+2024-10-01,Aggravated Assault,Completed,7441.0
+2024-11-01,Aggravated Assault,Completed,6418.0
+2024-12-01,Aggravated Assault,Completed,6635.0
+2019-01-01,Murder and Nonnegligent Manslaughter,Completed,61.0
+2019-02-01,Murder and Nonnegligent Manslaughter,Completed,82.0
+2019-03-01,Murder and Nonnegligent Manslaughter,Completed,74.0
+2019-04-01,Murder and Nonnegligent Manslaughter,Completed,63.0
+2019-05-01,Murder and Nonnegligent Manslaughter,Completed,102.0
+2019-06-01,Murder and Nonnegligent Manslaughter,Completed,81.0
+2019-07-01,Murder and Nonnegligent Manslaughter,Completed,66.0
+2019-08-01,Murder and Nonnegligent Manslaughter,Completed,108.0
+2019-09-01,Murder and Nonnegligent Manslaughter,Completed,87.0
+2019-10-01,Murder and Nonnegligent Manslaughter,Completed,80.0
+2019-11-01,Murder and Nonnegligent Manslaughter,Completed,104.0
+2019-12-01,Murder and Nonnegligent Manslaughter,Completed,96.0
+2020-01-01,Murder and Nonnegligent Manslaughter,Completed,117.0
+2020-02-01,Murder and Nonnegligent Manslaughter,Completed,91.0
+2020-03-01,Murder and Nonnegligent Manslaughter,Completed,128.0
+2020-04-01,Murder and Nonnegligent Manslaughter,Completed,118.0
+2020-05-01,Murder and Nonnegligent Manslaughter,Completed,132.0
+2020-06-01,Murder and Nonnegligent Manslaughter,Completed,126.0
+2020-07-01,Murder and Nonnegligent Manslaughter,Completed,126.0
+2020-08-01,Murder and Nonnegligent Manslaughter,Completed,145.0
+2020-09-01,Murder and Nonnegligent Manslaughter,Completed,131.0
+2020-10-01,Murder and Nonnegligent Manslaughter,Completed,184.0
+2020-11-01,Murder and Nonnegligent Manslaughter,Completed,180.0
+2020-12-01,Murder and Nonnegligent Manslaughter,Completed,180.0
+2021-01-01,Murder and Nonnegligent Manslaughter,Completed,175.0
+2021-02-01,Murder and Nonnegligent Manslaughter,Completed,164.0
+2021-03-01,Murder and Nonnegligent Manslaughter,Completed,147.0
+2021-04-01,Murder and Nonnegligent Manslaughter,Completed,170.0
+2021-05-01,Murder and Nonnegligent Manslaughter,Completed,195.0
+2021-06-01,Murder and Nonnegligent Manslaughter,Completed,186.0
+2021-07-01,Murder and Nonnegligent Manslaughter,Completed,169.0
+2021-08-01,Murder and Nonnegligent Manslaughter,Completed,162.0
+2021-09-01,Murder and Nonnegligent Manslaughter,Completed,198.0
+2021-10-01,Murder and Nonnegligent Manslaughter,Completed,197.0
+2021-11-01,Murder and Nonnegligent Manslaughter,Completed,159.0
+2021-12-01,Murder and Nonnegligent Manslaughter,Completed,150.0
+2022-01-01,Murder and Nonnegligent Manslaughter,Completed,198.0
+2022-02-01,Murder and Nonnegligent Manslaughter,Completed,165.0
+2022-03-01,Murder and Nonnegligent Manslaughter,Completed,166.0
+2022-04-01,Murder and Nonnegligent Manslaughter,Completed,163.0
+2022-05-01,Murder and Nonnegligent Manslaughter,Completed,214.0
+2022-06-01,Murder and Nonnegligent Manslaughter,Completed,252.0
+2022-07-01,Murder and Nonnegligent Manslaughter,Completed,184.0
+2022-08-01,Murder and Nonnegligent Manslaughter,Completed,165.0
+2022-09-01,Murder and Nonnegligent Manslaughter,Completed,140.0
+2022-10-01,Murder and Nonnegligent Manslaughter,Completed,172.0
+2022-11-01,Murder and Nonnegligent Manslaughter,Completed,138.0
+2022-12-01,Murder and Nonnegligent Manslaughter,Completed,144.0
+2023-01-01,Murder and Nonnegligent Manslaughter,Completed,169.0
+2023-02-01,Murder and Nonnegligent Manslaughter,Completed,138.0
+2023-03-01,Murder and Nonnegligent Manslaughter,Completed,150.0
+2023-04-01,Murder and Nonnegligent Manslaughter,Completed,154.0
+2023-05-01,Murder and Nonnegligent Manslaughter,Completed,156.0
+2023-06-01,Murder and Nonnegligent Manslaughter,Completed,165.0
+2023-07-01,Murder and Nonnegligent Manslaughter,Completed,180.0
+2023-08-01,Murder and Nonnegligent Manslaughter,Completed,150.0
+2023-09-01,Murder and Nonnegligent Manslaughter,Completed,182.0
+2023-10-01,Murder and Nonnegligent Manslaughter,Completed,146.0
+2023-11-01,Murder and Nonnegligent Manslaughter,Completed,141.0
+2023-12-01,Murder and Nonnegligent Manslaughter,Completed,167.0
+2024-01-01,Murder and Nonnegligent Manslaughter,Completed,146.0
+2024-02-01,Murder and Nonnegligent Manslaughter,Completed,120.0
+2024-03-01,Murder and Nonnegligent Manslaughter,Completed,119.0
+2024-04-01,Murder and Nonnegligent Manslaughter,Completed,133.0
+2024-05-01,Murder and Nonnegligent Manslaughter,Completed,163.0
+2024-06-01,Murder and Nonnegligent Manslaughter,Completed,137.0
+2024-07-01,Murder and Nonnegligent Manslaughter,Completed,154.0
+2024-08-01,Murder and Nonnegligent Manslaughter,Completed,130.0
+2024-09-01,Murder and Nonnegligent Manslaughter,Completed,140.0
+2024-10-01,Murder and Nonnegligent Manslaughter,Completed,154.0
+2024-11-01,Murder and Nonnegligent Manslaughter,Completed,134.0
+2024-12-01,Murder and Nonnegligent Manslaughter,Completed,121.0
+2019-01-01,Rape,Attempted,11.0
+2019-01-01,Rape,Completed,565.0
+2019-02-01,Rape,Attempted,7.0
+2019-02-01,Rape,Completed,464.0
+2019-03-01,Rape,Attempted,25.0
+2019-03-01,Rape,Completed,481.0
+2019-04-01,Rape,Attempted,19.0
+2019-04-01,Rape,Completed,527.0
+2019-05-01,Rape,Attempted,18.0
+2019-05-01,Rape,Completed,563.0
+2019-06-01,Rape,Attempted,16.0
+2019-06-01,Rape,Completed,556.0
+2019-07-01,Rape,Attempted,15.0
+2019-07-01,Rape,Completed,554.0
+2019-08-01,Rape,Attempted,19.0
+2019-08-01,Rape,Completed,627.0
+2019-09-01,Rape,Attempted,19.0
+2019-09-01,Rape,Completed,644.0
+2019-10-01,Rape,Attempted,16.0
+2019-10-01,Rape,Completed,605.0
+2019-11-01,Rape,Attempted,17.0
+2019-11-01,Rape,Completed,617.0
+2019-12-01,Rape,Attempted,19.0
+2019-12-01,Rape,Completed,534.0
+2020-01-01,Rape,Attempted,18.0
+2020-01-01,Rape,Completed,784.0
+2020-02-01,Rape,Attempted,18.0
+2020-02-01,Rape,Completed,680.0
+2020-03-01,Rape,Attempted,18.0
+2020-03-01,Rape,Completed,676.0
+2020-04-01,Rape,Attempted,21.0
+2020-04-01,Rape,Completed,550.0
+2020-05-01,Rape,Attempted,21.0
+2020-05-01,Rape,Completed,721.0
+2020-06-01,Rape,Attempted,23.0
+2020-06-01,Rape,Completed,721.0
+2020-07-01,Rape,Attempted,22.0
+2020-07-01,Rape,Completed,696.0
+2020-08-01,Rape,Attempted,21.0
+2020-08-01,Rape,Completed,763.0
+2020-09-01,Rape,Attempted,37.0
+2020-09-01,Rape,Completed,773.0
+2020-10-01,Rape,Attempted,20.0
+2020-10-01,Rape,Completed,765.0
+2020-11-01,Rape,Attempted,23.0
+2020-11-01,Rape,Completed,854.0
+2020-12-01,Rape,Attempted,23.0
+2020-12-01,Rape,Completed,789.0
+2021-01-01,Rape,Attempted,24.0
+2021-01-01,Rape,Completed,1089.0
+2021-02-01,Rape,Attempted,24.0
+2021-02-01,Rape,Completed,830.0
+2021-03-01,Rape,Attempted,25.0
+2021-03-01,Rape,Completed,1086.0
+2021-04-01,Rape,Attempted,25.0
+2021-04-01,Rape,Completed,995.0
+2021-05-01,Rape,Attempted,33.0
+2021-05-01,Rape,Completed,1035.0
+2021-06-01,Rape,Attempted,19.0
+2021-06-01,Rape,Completed,1045.0
+2021-07-01,Rape,Attempted,28.0
+2021-07-01,Rape,Completed,984.0
+2021-08-01,Rape,Attempted,24.0
+2021-08-01,Rape,Completed,1001.0
+2021-09-01,Rape,Attempted,24.0
+2021-09-01,Rape,Completed,1018.0
+2021-10-01,Rape,Attempted,41.0
+2021-10-01,Rape,Completed,1102.0
+2021-11-01,Rape,Attempted,19.0
+2021-11-01,Rape,Completed,935.0
+2021-12-01,Rape,Attempted,26.0
+2021-12-01,Rape,Completed,914.0
+2022-01-01,Rape,Attempted,19.0
+2022-01-01,Rape,Completed,1081.0
+2022-02-01,Rape,Attempted,27.0
+2022-02-01,Rape,Completed,852.0
+2022-03-01,Rape,Attempted,21.0
+2022-03-01,Rape,Completed,1020.0
+2022-04-01,Rape,Attempted,21.0
+2022-04-01,Rape,Completed,1006.0
+2022-05-01,Rape,Attempted,31.0
+2022-05-01,Rape,Completed,1081.0
+2022-06-01,Rape,Attempted,27.0
+2022-06-01,Rape,Completed,1044.0
+2022-07-01,Rape,Attempted,17.0
+2022-07-01,Rape,Completed,1008.0
+2022-08-01,Rape,Attempted,27.0
+2022-08-01,Rape,Completed,998.0
+2022-09-01,Rape,Attempted,24.0
+2022-09-01,Rape,Completed,1001.0
+2022-10-01,Rape,Attempted,27.0
+2022-10-01,Rape,Completed,960.0
+2022-11-01,Rape,Attempted,19.0
+2022-11-01,Rape,Completed,828.0
+2022-12-01,Rape,Attempted,23.0
+2022-12-01,Rape,Completed,892.0
+2023-01-01,Rape,Attempted,19.0
+2023-01-01,Rape,Completed,1045.0
+2023-02-01,Rape,Attempted,25.0
+2023-02-01,Rape,Completed,873.0
+2023-03-01,Rape,Attempted,37.0
+2023-03-01,Rape,Completed,1022.0
+2023-04-01,Rape,Attempted,18.0
+2023-04-01,Rape,Completed,998.0
+2023-05-01,Rape,Attempted,34.0
+2023-05-01,Rape,Completed,1009.0
+2023-06-01,Rape,Attempted,25.0
+2023-06-01,Rape,Completed,1056.0
+2023-07-01,Rape,Attempted,37.0
+2023-07-01,Rape,Completed,981.0
+2023-08-01,Rape,Attempted,36.0
+2023-08-01,Rape,Completed,985.0
+2023-09-01,Rape,Attempted,25.0
+2023-09-01,Rape,Completed,929.0
+2023-10-01,Rape,Attempted,25.0
+2023-10-01,Rape,Completed,993.0
+2023-11-01,Rape,Attempted,14.0
+2023-11-01,Rape,Completed,840.0
+2023-12-01,Rape,Attempted,30.0
+2023-12-01,Rape,Completed,852.0
+2024-01-01,Rape,Attempted,24.0
+2024-01-01,Rape,Completed,973.0
+2024-02-01,Rape,Attempted,22.0
+2024-02-01,Rape,Completed,899.0
+2024-03-01,Rape,Attempted,23.0
+2024-03-01,Rape,Completed,977.0
+2024-04-01,Rape,Attempted,30.0
+2024-04-01,Rape,Completed,1011.0
+2024-05-01,Rape,Attempted,25.0
+2024-05-01,Rape,Completed,1053.0
+2024-06-01,Rape,Attempted,36.0
+2024-06-01,Rape,Completed,1049.0
+2024-07-01,Rape,Attempted,28.0
+2024-07-01,Rape,Completed,1082.0
+2024-08-01,Rape,Attempted,36.0
+2024-08-01,Rape,Completed,1001.0
+2024-09-01,Rape,Attempted,24.0
+2024-09-01,Rape,Completed,1055.0
+2024-10-01,Rape,Attempted,27.0
+2024-10-01,Rape,Completed,1072.0
+2024-11-01,Rape,Attempted,36.0
+2024-11-01,Rape,Completed,967.0
+2024-12-01,Rape,Attempted,27.0
+2024-12-01,Rape,Completed,897.0
+2019-01-01,Robbery,Attempted,163.0
+2019-01-01,Robbery,Completed,1555.0
+2019-02-01,Robbery,Attempted,142.0
+2019-02-01,Robbery,Completed,1206.0
+2019-03-01,Robbery,Attempted,141.0
+2019-03-01,Robbery,Completed,1362.0
+2019-04-01,Robbery,Attempted,147.0
+2019-04-01,Robbery,Completed,1460.0
+2019-05-01,Robbery,Attempted,146.0
+2019-05-01,Robbery,Completed,1742.0
+2019-06-01,Robbery,Attempted,165.0
+2019-06-01,Robbery,Completed,1606.0
+2019-07-01,Robbery,Attempted,148.0
+2019-07-01,Robbery,Completed,1821.0
+2019-08-01,Robbery,Attempted,154.0
+2019-08-01,Robbery,Completed,1776.0
+2019-09-01,Robbery,Attempted,137.0
+2019-09-01,Robbery,Completed,1686.0
+2019-10-01,Robbery,Attempted,160.0
+2019-10-01,Robbery,Completed,1681.0
+2019-11-01,Robbery,Attempted,154.0
+2019-11-01,Robbery,Completed,1718.0
+2019-12-01,Robbery,Attempted,189.0
+2019-12-01,Robbery,Completed,1845.0
+2020-01-01,Robbery,Attempted,150.0
+2020-01-01,Robbery,Completed,1915.0
+2020-02-01,Robbery,Attempted,166.0
+2020-02-01,Robbery,Completed,1765.0
+2020-03-01,Robbery,Attempted,174.0
+2020-03-01,Robbery,Completed,1711.0
+2020-04-01,Robbery,Attempted,146.0
+2020-04-01,Robbery,Completed,1435.0
+2020-05-01,Robbery,Attempted,160.0
+2020-05-01,Robbery,Completed,1636.0
+2020-06-01,Robbery,Attempted,154.0
+2020-06-01,Robbery,Completed,1760.0
+2020-07-01,Robbery,Attempted,166.0
+2020-07-01,Robbery,Completed,1701.0
+2020-08-01,Robbery,Attempted,153.0
+2020-08-01,Robbery,Completed,1762.0
+2020-09-01,Robbery,Attempted,150.0
+2020-09-01,Robbery,Completed,1670.0
+2020-10-01,Robbery,Attempted,168.0
+2020-10-01,Robbery,Completed,1937.0
+2020-11-01,Robbery,Attempted,185.0
+2020-11-01,Robbery,Completed,2117.0
+2020-12-01,Robbery,Attempted,182.0
+2020-12-01,Robbery,Completed,2266.0
+2021-01-01,Robbery,Attempted,183.0
+2021-01-01,Robbery,Completed,2114.0
+2021-02-01,Robbery,Attempted,150.0
+2021-02-01,Robbery,Completed,1586.0
+2021-03-01,Robbery,Attempted,155.0
+2021-03-01,Robbery,Completed,1546.0
+2021-04-01,Robbery,Attempted,151.0
+2021-04-01,Robbery,Completed,1552.0
+2021-05-01,Robbery,Attempted,169.0
+2021-05-01,Robbery,Completed,1862.0
+2021-06-01,Robbery,Attempted,152.0
+2021-06-01,Robbery,Completed,1619.0
+2021-07-01,Robbery,Attempted,170.0
+2021-07-01,Robbery,Completed,1774.0
+2021-08-01,Robbery,Attempted,170.0
+2021-08-01,Robbery,Completed,1734.0
+2021-09-01,Robbery,Attempted,159.0
+2021-09-01,Robbery,Completed,1683.0
+2021-10-01,Robbery,Attempted,170.0
+2021-10-01,Robbery,Completed,1717.0
+2021-11-01,Robbery,Attempted,190.0
+2021-11-01,Robbery,Completed,1606.0
+2021-12-01,Robbery,Attempted,191.0
+2021-12-01,Robbery,Completed,1806.0
+2022-01-01,Robbery,Attempted,164.0
+2022-01-01,Robbery,Completed,1601.0
+2022-02-01,Robbery,Attempted,150.0
+2022-02-01,Robbery,Completed,1414.0
+2022-03-01,Robbery,Attempted,153.0
+2022-03-01,Robbery,Completed,1597.0
+2022-04-01,Robbery,Attempted,149.0
+2022-04-01,Robbery,Completed,1683.0
+2022-05-01,Robbery,Attempted,180.0
+2022-05-01,Robbery,Completed,1846.0
+2022-06-01,Robbery,Attempted,162.0
+2022-06-01,Robbery,Completed,1768.0
+2022-07-01,Robbery,Attempted,180.0
+2022-07-01,Robbery,Completed,1710.0
+2022-08-01,Robbery,Attempted,166.0
+2022-08-01,Robbery,Completed,1676.0
+2022-09-01,Robbery,Attempted,165.0
+2022-09-01,Robbery,Completed,1532.0
+2022-10-01,Robbery,Attempted,157.0
+2022-10-01,Robbery,Completed,1601.0
+2022-11-01,Robbery,Attempted,150.0
+2022-11-01,Robbery,Completed,1433.0
+2022-12-01,Robbery,Attempted,148.0
+2022-12-01,Robbery,Completed,1579.0
+2023-01-01,Robbery,Attempted,175.0
+2023-01-01,Robbery,Completed,1549.0
+2023-02-01,Robbery,Attempted,131.0
+2023-02-01,Robbery,Completed,1465.0
+2023-03-01,Robbery,Attempted,161.0
+2023-03-01,Robbery,Completed,1626.0
+2023-04-01,Robbery,Attempted,172.0
+2023-04-01,Robbery,Completed,1585.0
+2023-05-01,Robbery,Attempted,152.0
+2023-05-01,Robbery,Completed,1703.0
+2023-06-01,Robbery,Attempted,133.0
+2023-06-01,Robbery,Completed,1599.0
+2023-07-01,Robbery,Attempted,187.0
+2023-07-01,Robbery,Completed,1692.0
+2023-08-01,Robbery,Attempted,168.0
+2023-08-01,Robbery,Completed,1547.0
+2023-09-01,Robbery,Attempted,201.0
+2023-09-01,Robbery,Completed,1609.0
+2023-10-01,Robbery,Attempted,183.0
+2023-10-01,Robbery,Completed,1607.0
+2023-11-01,Robbery,Attempted,176.0
+2023-11-01,Robbery,Completed,1600.0
+2023-12-01,Robbery,Attempted,180.0
+2023-12-01,Robbery,Completed,1622.0
+2024-01-01,Robbery,Attempted,174.0
+2024-01-01,Robbery,Completed,1588.0
+2024-02-01,Robbery,Attempted,134.0
+2024-02-01,Robbery,Completed,1360.0
+2024-03-01,Robbery,Attempted,158.0
+2024-03-01,Robbery,Completed,1480.0
+2024-04-01,Robbery,Attempted,190.0
+2024-04-01,Robbery,Completed,1578.0
+2024-05-01,Robbery,Attempted,176.0
+2024-05-01,Robbery,Completed,1625.0
+2024-06-01,Robbery,Attempted,143.0
+2024-06-01,Robbery,Completed,1527.0
+2024-07-01,Robbery,Attempted,155.0
+2024-07-01,Robbery,Completed,1453.0
+2024-08-01,Robbery,Attempted,178.0
+2024-08-01,Robbery,Completed,1481.0
+2024-09-01,Robbery,Attempted,136.0
+2024-09-01,Robbery,Completed,1481.0
+2024-10-01,Robbery,Attempted,176.0
+2024-10-01,Robbery,Completed,1503.0
+2024-11-01,Robbery,Attempted,173.0
+2024-11-01,Robbery,Completed,1474.0
+2024-12-01,Robbery,Attempted,158.0
+2024-12-01,Robbery,Completed,1495.0
